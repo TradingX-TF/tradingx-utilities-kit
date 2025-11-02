@@ -35,7 +35,7 @@ multidict==6.7.0
     #   yarl
 numpy==2.3.4
     # via pandas
-pandas==2.2.2
+pandas==2.3.3
 propcache==0.4.1
     # via yarl
 pycares==4.11.0
