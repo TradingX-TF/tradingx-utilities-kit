@@ -9,7 +9,7 @@ aiosignal==1.4.0
 attrs==25.4.0
     # via aiohttp
 ccxt==4.4.71
-certifi==2025.10.5
+certifi==2025.11.12
     # via
     #   ccxt
     #   requests
